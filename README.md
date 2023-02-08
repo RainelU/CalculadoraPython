@@ -2,9 +2,7 @@
 
 ## Python Tkinter - Calculadora
 
-La aplicación es una calculadora sencilla desarrollada por mí, utilizando Tkinter.
-
-La Calculadora no es científica ni tiene ningún otra relación, solo los básicos.
+La aplicación es una calculadora sencilla desarrollada por mí (Rainel Urdaneta), utilizando Tkinter.
 
 ## POO (Programación Orientada a Objetos)
 
